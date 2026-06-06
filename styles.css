@@ -50,15 +50,25 @@
 /* ===================================================== */
 /* ANDY */
 /* ===================================================== */
+.astronaut{
+    width:300px;
 
+    background:rgba(255,255,255,.08);
 
+    padding:30px;
 
+    border-radius:20px;
 
+    transition:.4s;
+}
 
+.astronaut:hover{
+    transform:translateY(-10px);
+}
 
-
-
-
+.astronaut h3{
+    margin-bottom:15px;
+}
 
 
 
