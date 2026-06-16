@@ -265,7 +265,7 @@ Finalmente, se abordarán conceptos de diseño responsive, enseñando cómo adap
 
 ### Video
 
-[Ver Lección 5](ENLACE_YOUTUBE)
+[Ver Lección 5](https://youtu.be/QOmsicJ0vnc)
 
 ### Actividad Práctica
 
