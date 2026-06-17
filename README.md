@@ -83,7 +83,7 @@ Posteriormente, se introducirá la estructura básica de un documento HTML, expl
 
 ### Video
 
-[Ver Lección 1](ENLACE_)
+[Ver Lección 1](https://www.youtube.com/watch?v=sHPjBr8_XD8)
 
 
 
