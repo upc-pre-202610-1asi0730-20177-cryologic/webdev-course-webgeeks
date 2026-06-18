@@ -130,7 +130,7 @@ Además, se desarrollará una sección temática dedicada a los planetas del sis
 
 ### Video
 
-[Ver Lección 2](ENLACE_YOUTUBE)
+[Ver Lección 2](https://www.youtube.com/watch?v=is0_4S8FgDo&list=PLLiVjnY1Ht0w&index=1)
 
 ### Actividad Práctica
 
