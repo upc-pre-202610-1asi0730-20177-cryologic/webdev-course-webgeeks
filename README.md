@@ -137,7 +137,7 @@ Además, se desarrollará una sección temática dedicada a los planetas del sis
 Los estudiantes implementarán una barra de navegación y crearán tarjetas informativas sobre diferentes planetas del sistema solar.
 
 **Enlace de práctica:**  
-PENDIENTE
+[https://codepen.io/Angel-Guillermo-Berrospi/pen/rajjoMQ](https://codepen.io/Angel-Guillermo-Berrospi/pen/rajjoMQ)
 
 ### Conceptos Clave
 
