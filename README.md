@@ -221,7 +221,7 @@ Además, se introducirán los efectos hover y las transformaciones CSS, permitie
 
 ### Video
 
-[Ver Lección 4](ENLACE_YOUTUBE)
+[Ver Lección 4](https://www.youtube.com/watch?v=KEcDZgFNPZw)
 
 ### Actividad Práctica
 
