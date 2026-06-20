@@ -228,7 +228,7 @@ Además, se introducirán los efectos hover y las transformaciones CSS, permitie
 Los estudiantes desarrollarán tarjetas de astronautas con efectos visuales interactivos.
 
 **Enlace de práctica:**  
-PENDIENTE
+[https://codepen.io/Andy-Mio/pen/XJpMNXW](https://codepen.io/Andy-Mio/pen/XJpMNXW)
 
 ### Conceptos Clave
 
