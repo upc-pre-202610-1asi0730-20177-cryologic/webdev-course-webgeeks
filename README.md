@@ -316,8 +316,6 @@ La coordinación del equipo permitió distribuir equitativamente las responsabil
 
 <p align="center"><strong>Fecha de entrega:</strong> Junio 2026</p>
 
-# Anexos
-
 
 
 
