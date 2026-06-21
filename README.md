@@ -174,7 +174,7 @@ La práctica consistirá en construir una galería espacial compuesta por imáge
 
 ### Video
 
-[Ver Lección 3](https://www.youtube.com/watch?v=ZMIkLKX8fG8&themeRefresh=1)
+[Ver Lección 3](https://youtu.be/btmc5jMfH9s)
 
 ### Actividad Práctica
 
