@@ -155,10 +155,8 @@ Los estudiantes implementarán una barra de navegación y crearán tarjetas info
 ### Evidencia Visual
 
 <div align="center">
-  
-<img width="1359" height="600" alt="7409eb36-0a50-4980-a760-22d2d48c0331" src="https://github.com/user-attachments/assets/ab043e1f-42b5-4665-905d-5575057e6a83" />
-
-  <p><em>Figura 3. Implementación de una galería utilizando CSS Grid.</em></p>
+        <img width="1364" height="726" alt="Space Gallery result" src="https://github.com/user-attachments/assets/63869a6c-2969-443d-83f1-f2a75f088428"/>
+        <p><em>Figura 3. Implementación de una galería utilizando CSS Grid.</em></p>
 </div>
 
 ### Descripción
@@ -183,7 +181,7 @@ La práctica consistirá en construir una galería espacial compuesta por imáge
 Los estudiantes desarrollarán una galería espacial utilizando imágenes organizadas mediante CSS Grid.
 
 **Enlace de práctica:**  
-https://codepen.io/RoccaA4/pen/ogBZLrO
+[https://codepen.io/RoccaA4/pen/ogBZLrO](https://codepen.io/RoccaA4/pen/ogBZLrO)
 
 ### Conceptos Clave
 
