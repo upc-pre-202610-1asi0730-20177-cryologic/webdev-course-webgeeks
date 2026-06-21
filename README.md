@@ -183,7 +183,7 @@ La práctica consistirá en construir una galería espacial compuesta por imáge
 Los estudiantes desarrollarán una galería espacial utilizando imágenes organizadas mediante CSS Grid.
 
 **Enlace de práctica:**  
-PENDIENTE
+https://codepen.io/RoccaA4/pen/ogBZLrO
 
 ### Conceptos Clave
 
